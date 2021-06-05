@@ -7,3 +7,10 @@
 - type: tags
   title: Tags
   url: /tags/
+ ---
+layout: archive-taxonomies
+type: categories
+---
+
+  
+  

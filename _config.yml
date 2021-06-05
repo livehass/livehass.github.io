@@ -57,3 +57,6 @@ author:
   name: Felipe Siper
   url: https://github.com/livehass/
   email: felipesiper@gmail.com
+
+plugins:
+  - not-pure-poole

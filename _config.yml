@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Felipe Siper
+description: Testando algumas coisas
+url: https://felipesiper.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,16 +29,16 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Hass
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Felipe Siper
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    -https://twitter.com/sieuus
+    - https://github.com/livehass
 google_site_verification: xxxxx
-lang: en
+lang: pt-br
 
 sass:
   sass_dir: _sass
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Felipe Siper
+  url: https://github.com/livehass/
+  email: felipesiper@gmail.com

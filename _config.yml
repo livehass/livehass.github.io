@@ -38,7 +38,7 @@ logo: logo.png
 social:
   name: Felipe Siper
   links:
-    -https://twitter.com/sieuus
+    - https://twitter.com/sieuus
     - https://github.com/livehass
 google_site_verification: xxxxx
 lang: pt-br
@@ -65,3 +65,4 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: vszhub/not-pure-poole
+cover_image: /bg.jpeg
